@@ -21,6 +21,8 @@ May also be installed via npm:
 ```
 [voltage, current, power,import energy, export energy]
 
+unit: voltage [V], current [A], power [W],import energy [kWh], export energy [kWh]
+
 
 ### Three-phase electric energy meter(WEM3080T)
 
@@ -34,6 +36,8 @@ May also be installed via npm:
  ]
 ```
  [ voltageA, currentA, powerA,import energyA, export energyA], [ voltageB, currentB, powerB,import energyB, export energyB], [ voltageC, currentC, powerC,import energyC, export energyC]
+
+unit: voltage [V], current [A], power [W],import energy [kWh], export energy [kWh]
 
 
 ## The overview of demo
