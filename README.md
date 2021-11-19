@@ -33,13 +33,6 @@ May also be installed via npm:
 ```json
    [234.7,9.99,1068,21.063,20.667,49.99,1]
 ```
-
-
-
-
-```json
-   [234.7,9.99,1068,21.063,20.667,49.99,1]
-```
 [voltage, current, power,import energy, export energy]
 
 unit: voltage [V], current [A], power [W],import energy [kWh], export energy [kWh]
