@@ -1,6 +1,6 @@
 {
     "name": "node-red-contrib-iammeter",
-    "version": "0.2.2",
+    "version": "0.2.5",
     "description": "A module for Node-RED that you can use to get data from wifi power meter of IAMMETER.",
     "author": "iammeter",
     "license": "MIT",
@@ -15,7 +15,8 @@
     ],
     "node-red": {
         "nodes": {
-            "local-realtime": "./local-realtime/local-realtime.js"
+            "local-realtime": "./local-realtime/local-realtime.js",
+            "cloud-realtime": "./cloud-realtime/cloud-realtime.js"
         }
     },
     "dependencies": {
